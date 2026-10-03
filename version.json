@@ -1,0 +1,20 @@
+{
+  "headunit": {
+    "version_name": "1.0.5",
+    "build_version": "2026.10.03.11.45",
+    "release_date": "2026-10-03T11:45:00Z",
+    "force_after_days": 30,
+    "release_notes": "• Chuẩn hóa Namespace & MethodChannel com.taplai.simu.hud\n• Bổ sung nút Thoát ứng dụng kèm xác nhận tại Bottombar\n• Tối ưu hỗ trợ đo tốc độ và quãng đường GPS theo xe\n• Nâng cấp giao diện chia 3 hàng công thái học buồng lái",
+    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.10.03.11.45_release.apk",
+    "file_size_bytes": 57648415
+  },
+  "teacher": {
+    "version_name": "1.0.5",
+    "build_version": "2026.10.03.11.45",
+    "release_date": "2026-10-03T11:45:00Z",
+    "force_after_days": 30,
+    "release_notes": "• Chuẩn hóa Namespace & MethodChannel com.taplai.simu.remote\n• Bổ sung nút Thoát ứng dụng trên màn hình chọn bài\n• Đồng bộ còi hú khẩn cấp và trạng thái thi theo thời gian thực",
+    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.10.03.11.45_release.apk",
+    "file_size_bytes": 35816864
+  }
+}
