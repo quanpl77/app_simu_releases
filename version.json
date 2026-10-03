@@ -1,20 +1,20 @@
 {
   "headunit": {
-    "version_name": "1.0.7",
-    "build_version": "2026.10.03.13.16",
-    "release_date": "2026-10-03T13:16:00Z",
+    "version_name": "1.0.8",
+    "build_version": "2026.10.03.13.59",
+    "release_date": "2026-10-03T13:59:00Z",
     "force_after_days": 30,
-    "release_notes": "• Tích hợp Native Android GPS LocationManager đo tốc độ và cự ly thực tế từ anten xe\n• Sửa lỗi tốc độ bị gán cứng 20 km/h khi chọn chế độ GPS\n• Bổ sung bộ lọc chống trôi cự ly tĩnh khi xe dừng chờ lệnh",
-    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.10.03.13.16_release.apk",
-    "file_size_bytes": 57664887
+    "release_notes": "• Đồng nhất MethodChannel OTA installer (com.taplai.simu/ota_installer)\n• Tự động mở quyền Cài đặt ứng dụng không rõ nguồn trên Android 8+\n• Khắc phục triệt để lỗi kẹt tải APK trên màn hình Android ô tô (Head Unit)\n• Chuẩn hóa thông báo lỗi thân thiện, ẩn hoàn toàn đường dẫn tệp nội bộ\n• Bổ sung Badge nhận diện nguồn GPS và bảo vệ kết nối Remote",
+    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.10.03.13.59_release.apk",
+    "file_size_bytes": 57681575
   },
   "teacher": {
-    "version_name": "1.0.7",
-    "build_version": "2026.10.03.13.16",
-    "release_date": "2026-10-03T13:16:00Z",
+    "version_name": "1.0.8",
+    "build_version": "2026.10.03.13.59",
+    "release_date": "2026-10-03T13:59:00Z",
     "force_after_days": 30,
-    "release_notes": "• Đồng bộ trạng thái GPS thời gian thực từ Head Unit xe\n• Tối ưu hóa điều khiển cự ly và tốc độ bài thi đường trường",
-    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.10.03.13.16_release.apk",
-    "file_size_bytes": 35816952
+    "release_notes": "• Thêm bộ chọn nguồn GPS đường trường 3 chế độ (Mô phỏng / Anten xe / GPS ĐT)\n• Bất biến: Chế độ GPS giáo viên chỉ hiệu lực khi có kết nối mạng với xe\n• Nâng cấp hệ thống cập nhật OTA đồng nhất và hiển thị lỗi thân thiện",
+    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.10.03.13.59_release.apk",
+    "file_size_bytes": 35833808
   }
 }
