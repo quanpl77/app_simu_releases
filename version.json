@@ -1,20 +1,20 @@
 {
   "headunit": {
-    "version_name": "1.0.6",
-    "build_version": "2026.10.03.12.29",
-    "release_date": "2026-10-03T12:29:00Z",
+    "version_name": "1.0.7",
+    "build_version": "2026.10.03.13.16",
+    "release_date": "2026-10-03T13:16:00Z",
     "force_after_days": 30,
-    "release_notes": "• Tối ưu hóa tải và cài đặt cập nhật tự động OTA trên thiết bị thật\n• Hỗ trợ toàn diện FileProvider và đường dẫn lưu trữ ngoài an toàn\n• Chuẩn hóa hiển thị phiên bản và ngăn chặn thông báo cập nhật ảo",
-    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.10.03.12.29_release.apk",
-    "file_size_bytes": 57648503
+    "release_notes": "• Tích hợp Native Android GPS LocationManager đo tốc độ và cự ly thực tế từ anten xe\n• Sửa lỗi tốc độ bị gán cứng 20 km/h khi chọn chế độ GPS\n• Bổ sung bộ lọc chống trôi cự ly tĩnh khi xe dừng chờ lệnh",
+    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.10.03.13.16_release.apk",
+    "file_size_bytes": 57664887
   },
   "teacher": {
-    "version_name": "1.0.6",
-    "build_version": "2026.10.03.12.29",
-    "release_date": "2026-10-03T12:29:00Z",
+    "version_name": "1.0.7",
+    "build_version": "2026.10.03.13.16",
+    "release_date": "2026-10-03T13:16:00Z",
     "force_after_days": 30,
-    "release_notes": "• Tối ưu hóa tải và cài đặt cập nhật tự động OTA trên thiết bị thật\n• Hỗ trợ toàn diện FileProvider và đường dẫn lưu trữ ngoài an toàn\n• Chuẩn hóa hiển thị phiên bản và ngăn chặn thông báo cập nhật ảo",
-    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.10.03.12.29_release.apk",
+    "release_notes": "• Đồng bộ trạng thái GPS thời gian thực từ Head Unit xe\n• Tối ưu hóa điều khiển cự ly và tốc độ bài thi đường trường",
+    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.10.03.13.16_release.apk",
     "file_size_bytes": 35816952
   }
 }
