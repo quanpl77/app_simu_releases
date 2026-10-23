@@ -1,20 +1,24 @@
 {
-  "headunit": {
-    "version_name": "1.0.9",
-    "build_version": "2026.10.03.14.43",
-    "release_date": "2026-10-03T14:43:00Z",
-    "force_after_days": 30,
-    "release_notes": "• Tối ưu hóa hiệu năng: Tra cứu lỗi vi phạm chuyển từ O(N) sang O(1) Hash Map siêu tốc\n• Đồng nhất và gia cố logic xử lý sự kiện kết nối Bluetooth SPP\n• Chuẩn hóa cấu trúc khai báo State trên toàn bộ hộp thoại hệ thống\n• Tinh giản mã nguồn và giữ vững 100% kiểm thử 110/110 bài PASS\n• Dọn sạch các bản phát hành cũ, tối ưu dung lượng phân phối",
-    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.10.03.14.43_release.apk",
-    "file_size_bytes": 57681575
-  },
-  "teacher": {
-    "version_name": "1.0.9",
-    "build_version": "2026.10.03.14.43",
-    "release_date": "2026-10-03T14:43:00Z",
-    "force_after_days": 30,
-    "release_notes": "• Tối ưu hóa hiệu năng: Tra cứu lỗi vi phạm chuyển từ O(N) sang O(1) Hash Map siêu tốc\n• Đồng nhất và gia cố logic xử lý sự kiện kết nối Bluetooth SPP\n• Chuẩn hóa cấu trúc khai báo State trên toàn bộ hộp thoại hệ thống\n• Tinh giản mã nguồn và giữ vững 100% kiểm thử 110/110 bài PASS\n• Dọn sạch các bản phát hành cũ, tối ưu dung lượng phân phối",
-    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.10.03.14.43_release.apk",
-    "file_size_bytes": 35833808
-  }
+    "headunit":  {
+                     "version_name":  "2.6.0",
+                     "version_code":  20261023,
+                     "build_version":  "2026.10.23.16.33",
+                     "release_date":  "2026-10-23T09:33:19Z",
+                     "force_after_days":  30,
+                     "release_notes":  "Bổ sung chế độ Đường trường 2027 với 12 bài TT108, bàn phím lỗi theo nhóm điểm, hướng dẫn combobox dùng chung HU/Remote; tách 6 hạng xe, cập nhật giới hạn thời gian, âm thanh và độ an toàn kết nối.",
+                     "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.10.23.16.33_release.apk",
+                     "file_size_bytes":  88559610,
+                     "sha256":  "969CA89181C24D4414F266D4697C13E1735664CD9235B2F3428DC6E2B240D585"
+                 },
+    "teacher":  {
+                    "version_name":  "2.6.0",
+                    "version_code":  20261023,
+                    "build_version":  "2026.10.23.16.33",
+                    "release_date":  "2026-10-23T09:33:19Z",
+                    "force_after_days":  30,
+                    "release_notes":  "Bổ sung chế độ Đường trường 2027 với 12 bài TT108, bàn phím lỗi theo nhóm điểm, hướng dẫn combobox dùng chung HU/Remote; tách 6 hạng xe, cập nhật giới hạn thời gian, âm thanh và độ an toàn kết nối.",
+                    "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.10.23.16.33_release.apk",
+                    "file_size_bytes":  36210808,
+                    "sha256":  "884DAEB8D73B74B4644393513DFA4836107D2F8DD119E12443BCB43E714FBD93"
+                }
 }
