@@ -1,24 +1,24 @@
 {
-    "headunit":  {
-                     "version_name":  "2.6.0",
-                     "version_code":  20261023,
-                     "build_version":  "2026.10.23.16.33",
-                     "release_date":  "2026-10-23T09:33:19Z",
-                     "force_after_days":  30,
-                     "release_notes":  "Bổ sung chế độ Đường trường 2027 với 12 bài TT108, bàn phím lỗi theo nhóm điểm, hướng dẫn combobox dùng chung HU/Remote; tách 6 hạng xe, cập nhật giới hạn thời gian, âm thanh và độ an toàn kết nối.",
-                     "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.10.23.16.33_release.apk",
-                     "file_size_bytes":  88559610,
-                     "sha256":  "969CA89181C24D4414F266D4697C13E1735664CD9235B2F3428DC6E2B240D585"
-                 },
-    "teacher":  {
-                    "version_name":  "2.6.0",
-                    "version_code":  20261023,
-                    "build_version":  "2026.10.23.16.33",
-                    "release_date":  "2026-10-23T09:33:19Z",
-                    "force_after_days":  30,
-                    "release_notes":  "Bổ sung chế độ Đường trường 2027 với 12 bài TT108, bàn phím lỗi theo nhóm điểm, hướng dẫn combobox dùng chung HU/Remote; tách 6 hạng xe, cập nhật giới hạn thời gian, âm thanh và độ an toàn kết nối.",
-                    "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.10.23.16.33_release.apk",
-                    "file_size_bytes":  36210808,
-                    "sha256":  "884DAEB8D73B74B4644393513DFA4836107D2F8DD119E12443BCB43E714FBD93"
-                }
+  "headunit": {
+    "version_name": "2.7.0",
+    "version_code": 20261103,
+    "build_version": "2026.11.03.10.29",
+    "release_date": "2026-11-03T03:29:04Z",
+    "force_after_days": 30,
+    "release_notes": "Cân chỉnh card điểm DT27 ở chế độ Remote; khôi phục log trừ điểm, đồng bộ lại phiên thi khi Remote kết nối lại, khóa màn hình Teacher khi đang sử dụng, bổ sung marquee chống cắt chữ và chuẩn hóa giao diện Sa hình, Đường trường, DT27 trên Head Unit và Teacher.",
+    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.11.03.10.29_release.apk",
+    "file_size_bytes": 88158566,
+    "sha256": "83C5AFA007949C55F41D83B4144D9C53B72C69DA4DFFAB3BD22FBB86A7369D4A"
+  },
+  "teacher": {
+    "version_name": "2.7.0",
+    "version_code": 20261103,
+    "build_version": "2026.11.03.10.29",
+    "release_date": "2026-11-03T03:29:04Z",
+    "force_after_days": 30,
+    "release_notes": "Cân chỉnh card điểm DT27 ở chế độ Remote; khôi phục log trừ điểm, đồng bộ lại phiên thi khi Remote kết nối lại, khóa màn hình Teacher khi đang sử dụng, bổ sung marquee chống cắt chữ và chuẩn hóa giao diện Sa hình, Đường trường, DT27 trên Head Unit và Teacher.",
+    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.11.03.10.29_release.apk",
+    "file_size_bytes": 36260760,
+    "sha256": "C6521D05F28C6ACC44582535CA2597FFFDD5568559DC3EABFE4A8D9AFD782094"
+  }
 }
