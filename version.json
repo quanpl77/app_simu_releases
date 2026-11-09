@@ -1,24 +1,24 @@
 {
     "headunit":  {
-                     "version_name":  "2.7.2",
-                     "version_code":  20261105,
-                     "build_version":  "2026.11.03.11.59",
-                     "release_date":  "2026-11-03T04:59:00Z",
+                     "version_name":  "2.8.0",
+                     "version_code":  20261109,
+                     "build_version":  "2026.11.09.10.30",
+                     "release_date":  "2026-11-09T03:30:00Z",
                      "force_after_days":  30,
-                     "release_notes":  "Cân chỉnh card điểm DT27 ở chế độ Remote; khôi phục log trừ điểm, đồng bộ lại phiên thi khi Remote kết nối lại, khóa màn hình Teacher khi đang sử dụng, bổ sung marquee chống cắt chữ và chuẩn hóa giao diện Sa hình, Đường trường, DT27 trên Head Unit và Teacher.",
-                     "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.11.03.11.59_release.apk",
-                     "file_size_bytes":  88158566,
-                     "sha256":  "99B40A7E351F01AF45732462587515BC566294FEF54A08789E9778EDF676BF27"
+                     "release_notes":  "Gia cố bảo mật cấp phép Ed25519 (ADR-020) và máy trạng thái thời gian tin cậy/ân hạn ngoại tuyến AHU với Android Hardware Keystore fail-closed (ADR-021); bổ sung tùy chọn cự ly kết thúc bài thi Đường trường \u0026 ĐT 2027 (2km, 3km, 4km, 5km) kèm âm báo bính boong khi đạt mốc.",
+                     "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.11.09.10.30_release.apk",
+                     "file_size_bytes":  88372218,
+                     "sha256":  "155C18DCF89935998F94A09DCC90762DBAD684520EBEFD1482D63B82089C6973"
                  },
     "teacher":  {
-                    "version_name":  "2.7.2",
-                    "version_code":  20261105,
-                    "build_version":  "2026.11.03.11.59",
-                    "release_date":  "2026-11-03T04:59:00Z",
+                    "version_name":  "2.8.0",
+                    "version_code":  20261109,
+                    "build_version":  "2026.11.09.10.30",
+                    "release_date":  "2026-11-09T03:30:00Z",
                     "force_after_days":  30,
-                    "release_notes":  "Cân chỉnh card điểm DT27 ở chế độ Remote; khôi phục log trừ điểm, đồng bộ lại phiên thi khi Remote kết nối lại, khóa màn hình Teacher khi đang sử dụng, bổ sung marquee chống cắt chữ và chuẩn hóa giao diện Sa hình, Đường trường, DT27 trên Head Unit và Teacher.",
-                    "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.11.03.11.59_release.apk",
+                    "release_notes":  "Gia cố bảo mật cấp phép Ed25519 (ADR-020) và máy trạng thái thời gian tin cậy/ân hạn ngoại tuyến AHU với Android Hardware Keystore fail-closed (ADR-021); bổ sung tùy chọn cự ly kết thúc bài thi Đường trường \u0026 ĐT 2027 (2km, 3km, 4km, 5km) kèm âm báo bính boong khi đạt mốc.",
+                    "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.11.09.10.30_release.apk",
                     "file_size_bytes":  36260760,
-                    "sha256":  "2B12ADF5020153B5B75249AA1B503E63DF559072B17ABF56A22FB1B22603C2E3"
+                    "sha256":  "F8023AA9E06FA328CD6AA69EDD78E435B8ACC347783F19B29254E65BE9E4EBC5"
                 }
 }
