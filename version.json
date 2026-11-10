@@ -1,24 +1,24 @@
 {
-    "headunit":  {
-                     "version_name":  "2.8.0",
-                     "version_code":  20261109,
-                     "build_version":  "2026.11.09.10.30",
-                     "release_date":  "2026-11-09T03:30:00Z",
-                     "force_after_days":  30,
-                     "release_notes":  "Gia cố bảo mật cấp phép Ed25519 (ADR-020) và máy trạng thái thời gian tin cậy/ân hạn ngoại tuyến AHU với Android Hardware Keystore fail-closed (ADR-021); bổ sung tùy chọn cự ly kết thúc bài thi Đường trường \u0026 ĐT 2027 (2km, 3km, 4km, 5km) kèm âm báo bính boong khi đạt mốc.",
-                     "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.11.09.10.30_release.apk",
-                     "file_size_bytes":  88372218,
-                     "sha256":  "155C18DCF89935998F94A09DCC90762DBAD684520EBEFD1482D63B82089C6973"
-                 },
-    "teacher":  {
-                    "version_name":  "2.8.0",
-                    "version_code":  20261109,
-                    "build_version":  "2026.11.09.10.30",
-                    "release_date":  "2026-11-09T03:30:00Z",
-                    "force_after_days":  30,
-                    "release_notes":  "Gia cố bảo mật cấp phép Ed25519 (ADR-020) và máy trạng thái thời gian tin cậy/ân hạn ngoại tuyến AHU với Android Hardware Keystore fail-closed (ADR-021); bổ sung tùy chọn cự ly kết thúc bài thi Đường trường \u0026 ĐT 2027 (2km, 3km, 4km, 5km) kèm âm báo bính boong khi đạt mốc.",
-                    "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.11.09.10.30_release.apk",
-                    "file_size_bytes":  36260760,
-                    "sha256":  "F8023AA9E06FA328CD6AA69EDD78E435B8ACC347783F19B29254E65BE9E4EBC5"
-                }
+  "headunit": {
+    "version_name": "2.8.1",
+    "version_code": 20261110,
+    "build_version": "2026.11.09.21.30",
+    "release_date": "2026-11-09T14:30:00Z",
+    "force_after_days": 30,
+    "release_notes": "Bổ sung tùy biến cự ly mục tiêu đường trường trên Head Unit và Teacher Remote, đồng bộ hai chiều thời gian thực. Nâng cấp hệ thống kích hoạt sang mã HMAC 16 ký tự; mọi thiết bị nâng cấp từ 2.8.0 phải kích hoạt lại bằng mã mới do Admin Keygen phát hành.",
+    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.11.09.21.30_release.apk",
+    "file_size_bytes": 88143046,
+    "sha256": "35E96640FFE40085822E8D745DC7470EC2D31A883120A15CD86C22DDD087E07B"
+  },
+  "teacher": {
+    "version_name": "2.8.1",
+    "version_code": 20261110,
+    "build_version": "2026.11.09.21.30",
+    "release_date": "2026-11-09T14:30:00Z",
+    "force_after_days": 30,
+    "release_notes": "Bổ sung tùy biến cự ly mục tiêu đường trường trên Head Unit và Teacher Remote, đồng bộ hai chiều thời gian thực. Nâng cấp hệ thống kích hoạt sang mã HMAC 16 ký tự; mọi thiết bị nâng cấp từ 2.8.0 phải kích hoạt lại bằng mã mới do Admin Keygen phát hành.",
+    "apk_url": "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.11.09.21.30_release.apk",
+    "file_size_bytes": 36277220,
+    "sha256": "560E2C11B9818790E29139F039D5EAD1775D25BD14E73708F9A8CCBACE8B6A74"
+  }
 }
