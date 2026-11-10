@@ -1,24 +1,24 @@
 {
     "headunit":  {
-                     "version_name":  "2.8.2",
-                     "version_code":  20261111,
-                     "build_version":  "2026.11.10.11.30",
-                     "release_date":  "2026-11-10T04:30:00Z",
+                     "version_name":  "2.8.3",
+                     "version_code":  20261112,
+                     "build_version":  "2026.11.10.16.20",
+                     "release_date":  "2026-11-10T09:20:00Z",
                      "force_after_days":  30,
-                     "release_notes":  "Vá lỗi đồng bộ cự ly mục tiêu đường trường và thanh tiến trình giữa Head Unit và Teacher Remote; áp dụng cấu hình và cự ly nguyên tử, cập nhật tức thời giao diện remote.",
-                     "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.11.10.11.30_release.apk",
-                     "file_size_bytes":  88143046,
-                     "sha256":  "EE4905DE16D790FA97D414EE5FB5FCF0C905C0E050E0D8B6F623A4C9BFC4E4E1"
+                     "release_notes":  "Hỗ trợ môi trường Wi-Fi dùng chung nhiều xe: tự động định danh xe theo IP (Xe 15), khóa ghép cặp độc quyền 1-1 chống can thiệp chéo, ghi nhớ xe đã kết nối và hỗ trợ hủy/chuyển xe linh hoạt.",
+                     "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.11.10.16.20_release.apk",
+                     "file_size_bytes":  88143042,
+                     "sha256":  "8935870F4F5EF53A1C8D65B7B8AD2C9E8B6ABE4D32F79D5F423274FCA1259ADA"
                  },
     "teacher":  {
-                    "version_name":  "2.8.2",
-                    "version_code":  20261111,
-                    "build_version":  "2026.11.10.11.30",
-                    "release_date":  "2026-11-10T04:30:00Z",
+                    "version_name":  "2.8.3",
+                    "version_code":  20261112,
+                    "build_version":  "2026.11.10.16.20",
+                    "release_date":  "2026-11-10T09:20:00Z",
                     "force_after_days":  30,
-                    "release_notes":  "Vá lỗi đồng bộ cự ly mục tiêu đường trường và thanh tiến trình giữa Head Unit và Teacher Remote; áp dụng cấu hình và cự ly nguyên tử, cập nhật tức thời giao diện remote.",
-                    "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.11.10.11.30_release.apk",
-                    "file_size_bytes":  36277220,
-                    "sha256":  "FAAFF1A029B27A1BD661B5443267B4CE4E772B6F9D8939F885E69D880E48EE93"
+                    "release_notes":  "Hỗ trợ môi trường Wi-Fi dùng chung nhiều xe: tự động định danh xe theo IP (Xe 15), khóa ghép cặp độc quyền 1-1 chống can thiệp chéo, ghi nhớ xe đã kết nối và hỗ trợ hủy/chuyển xe linh hoạt.",
+                    "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.11.10.16.20_release.apk",
+                    "file_size_bytes":  36293728,
+                    "sha256":  "E2BD5F05DB25BA660E204945A105C5C252319A347C014203D477DD21F33057BB"
                 }
 }
