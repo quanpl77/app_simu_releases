@@ -1,24 +1,24 @@
 {
     "headunit":  {
-                     "version_name":  "2.8.4",
-                     "version_code":  20261127,
-                     "build_version":  "2026.11.27.00.12",
-                     "release_date":  "2026-11-26T17:12:28Z",
+                     "version_name":  "2.8.5",
+                     "version_code":  20261129,
+                     "build_version":  "2026.11.27.13.40",
+                     "release_date":  "2026-11-27T06:40:00Z",
                      "force_after_days":  30,
-                     "release_notes":  "Cải thiện giao diện Đường trường 2027 và khóa cự ly mục tiêu sau khi bắt đầu phiên thi. Ngưỡng đạt DT2027 cố định 80 điểm.",
-                     "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.11.27.00.12_release.apk",
-                     "file_size_bytes":  88159430,
-                     "sha256":  "F7ACDA34B71AD03E49948F9D970F640C5508558DD32FB0753CF5FF5AEC1EE6C5"
+                     "release_notes":  "Khắc phục lưu trữ lịch sử bộ nhớ ngoài (hợp nhất khi cấp lại quyền, giữ kho nội bộ nếu hợp nhất lúc khởi động thất bại, thay thế tệp nguyên tử an toàn), đồng bộ HUD Đường trường 2027 40/60, tốc độ mô phỏng tự động và GPS tự xác nhận xuất phát.",
+                     "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.11.27.13.40_release.apk",
+                     "file_size_bytes":  88192266,
+                     "sha256":  "A1150B236FF8886D2E492E8D7DFB196CCF86DEB35DEE0DCC29B02A80FAC18AEB"
                  },
     "teacher":  {
-                    "version_name":  "2.8.4",
-                    "version_code":  20261127,
-                    "build_version":  "2026.11.27.00.12",
-                    "release_date":  "2026-11-26T17:12:28Z",
+                    "version_name":  "2.8.5",
+                    "version_code":  20261129,
+                    "build_version":  "2026.11.27.13.40",
+                    "release_date":  "2026-11-27T06:40:00Z",
                     "force_after_days":  30,
-                    "release_notes":  "Cải thiện giao diện Đường trường 2027 và khóa cự ly mục tiêu sau khi bắt đầu phiên thi. Ngưỡng đạt DT2027 cố định 80 điểm.",
-                    "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.11.27.00.12_release.apk",
+                    "release_notes":  "Khắc phục lưu trữ lịch sử bộ nhớ ngoài (hợp nhất khi cấp lại quyền, giữ kho nội bộ nếu hợp nhất lúc khởi động thất bại, thay thế tệp nguyên tử an toàn), đồng bộ HUD Đường trường 2027 40/60, tốc độ mô phỏng tự động và GPS tự xác nhận xuất phát.",
+                    "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.11.27.13.40_release.apk",
                     "file_size_bytes":  36293872,
-                    "sha256":  "AE32964BD4CD2EE19918526E8A9CB3BEA0BF5304B76A65AF88D47CA1D7B547CF"
+                    "sha256":  "FF39F0FC67C8C8098885F73DDF905DCF5B64AEA80B690A43CE8CF87288F02AAB"
                 }
 }
