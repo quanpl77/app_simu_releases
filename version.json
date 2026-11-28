@@ -1,24 +1,24 @@
 {
     "headunit":  {
-                     "version_name":  "2.9.0",
-                     "version_code":  20261130,
-                     "build_version":  "2026.11.28.07.10",
-                     "release_date":  "2026-11-28T00:10:00Z",
+                     "version_name":  "2.9.1",
+                     "version_code":  20261131,
+                     "build_version":  "2026.11.28.07.55",
+                     "release_date":  "2026-11-28T00:55:00Z",
                      "force_after_days":  30,
-                     "release_notes":  "Nâng cấp toàn diện giao diện Modern Clean Institutional (simu_design_system): mặc định Ban ngày chống lóa (xoay vòng 3 chế độ Sáng/Tối/Hệ thống), font tiếng Việt Be Vietnam Pro đóng gói offline kèm giấy phép SIL OFL 1.1, đồng hồ số AppMetricDisplay, bố cục dashboard \u0026 cài đặt 2 cột trên Head Unit và Teacher Remote.",
-                     "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.11.28.07.10_release.apk",
+                     "release_notes":  "Khắc phục lỗi mất dấu tiếng Việt (chữ hoa có dấu chồng như Ấ, Ố, Ệ, Ỗ) trên tiêu đề bài thi Sa hình khi hiển thị cỡ chữ lớn; tăng khoảng thoáng dọc cho MarqueeText và token chữ SimuTypography.",
+                     "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.11.28.07.55_release.apk",
                      "file_size_bytes":  88664718,
-                     "sha256":  "1DF9237399105C4C5887DCBE4F14D1157D5080279CD1E5DBE6413CDD27AEBEF9"
+                     "sha256":  "723F6FE379EE0B085D72E9E6F7455763389B792D988DF57F6D67471D7D08BCBD"
                  },
     "teacher":  {
-                    "version_name":  "2.9.0",
-                    "version_code":  20261130,
-                    "build_version":  "2026.11.28.07.10",
-                    "release_date":  "2026-11-28T00:10:00Z",
+                    "version_name":  "2.9.1",
+                    "version_code":  20261131,
+                    "build_version":  "2026.11.28.07.55",
+                    "release_date":  "2026-11-28T00:55:00Z",
                     "force_after_days":  30,
-                    "release_notes":  "Nâng cấp toàn diện giao diện Modern Clean Institutional (simu_design_system): mặc định Ban ngày chống lóa (xoay vòng 3 chế độ Sáng/Tối/Hệ thống), font tiếng Việt Be Vietnam Pro đóng gói offline kèm giấy phép SIL OFL 1.1, đồng hồ số AppMetricDisplay, bố cục dashboard \u0026 cài đặt 2 cột trên Head Unit và Teacher Remote.",
-                    "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.11.28.07.10_release.apk",
+                    "release_notes":  "Khắc phục lỗi mất dấu tiếng Việt (chữ hoa có dấu chồng như Ấ, Ố, Ệ, Ỗ) trên tiêu đề bài thi Sa hình khi hiển thị cỡ chữ lớn; tăng khoảng thoáng dọc cho MarqueeText và token chữ SimuTypography.",
+                    "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.11.28.07.55_release.apk",
                     "file_size_bytes":  36257886,
-                    "sha256":  "4C7DEE3C9EEF82EEAB31C66F68C1F0956D9C6B1905574BEC2D8C4D11D8F3D610"
+                    "sha256":  "985BC3A02459C199D24AEFC164EC44385EC8E4355CA31AF62147290C9A84A8D5"
                 }
 }
