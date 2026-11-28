@@ -1,24 +1,24 @@
 {
     "headunit":  {
-                     "version_name":  "2.8.5",
-                     "version_code":  20261129,
-                     "build_version":  "2026.11.27.13.40",
-                     "release_date":  "2026-11-27T06:40:00Z",
+                     "version_name":  "2.9.0",
+                     "version_code":  20261130,
+                     "build_version":  "2026.11.28.07.10",
+                     "release_date":  "2026-11-28T00:10:00Z",
                      "force_after_days":  30,
-                     "release_notes":  "Khắc phục lưu trữ lịch sử bộ nhớ ngoài (hợp nhất khi cấp lại quyền, giữ kho nội bộ nếu hợp nhất lúc khởi động thất bại, thay thế tệp nguyên tử an toàn), đồng bộ HUD Đường trường 2027 40/60, tốc độ mô phỏng tự động và GPS tự xác nhận xuất phát.",
-                     "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.11.27.13.40_release.apk",
-                     "file_size_bytes":  88192266,
-                     "sha256":  "A1150B236FF8886D2E492E8D7DFB196CCF86DEB35DEE0DCC29B02A80FAC18AEB"
+                     "release_notes":  "Nâng cấp toàn diện giao diện Modern Clean Institutional (simu_design_system): mặc định Ban ngày chống lóa (xoay vòng 3 chế độ Sáng/Tối/Hệ thống), font tiếng Việt Be Vietnam Pro đóng gói offline kèm giấy phép SIL OFL 1.1, đồng hồ số AppMetricDisplay, bố cục dashboard \u0026 cài đặt 2 cột trên Head Unit và Teacher Remote.",
+                     "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.11.28.07.10_release.apk",
+                     "file_size_bytes":  88664718,
+                     "sha256":  "1DF9237399105C4C5887DCBE4F14D1157D5080279CD1E5DBE6413CDD27AEBEF9"
                  },
     "teacher":  {
-                    "version_name":  "2.8.5",
-                    "version_code":  20261129,
-                    "build_version":  "2026.11.27.13.40",
-                    "release_date":  "2026-11-27T06:40:00Z",
+                    "version_name":  "2.9.0",
+                    "version_code":  20261130,
+                    "build_version":  "2026.11.28.07.10",
+                    "release_date":  "2026-11-28T00:10:00Z",
                     "force_after_days":  30,
-                    "release_notes":  "Khắc phục lưu trữ lịch sử bộ nhớ ngoài (hợp nhất khi cấp lại quyền, giữ kho nội bộ nếu hợp nhất lúc khởi động thất bại, thay thế tệp nguyên tử an toàn), đồng bộ HUD Đường trường 2027 40/60, tốc độ mô phỏng tự động và GPS tự xác nhận xuất phát.",
-                    "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.11.27.13.40_release.apk",
-                    "file_size_bytes":  36293872,
-                    "sha256":  "FF39F0FC67C8C8098885F73DDF905DCF5B64AEA80B690A43CE8CF87288F02AAB"
+                    "release_notes":  "Nâng cấp toàn diện giao diện Modern Clean Institutional (simu_design_system): mặc định Ban ngày chống lóa (xoay vòng 3 chế độ Sáng/Tối/Hệ thống), font tiếng Việt Be Vietnam Pro đóng gói offline kèm giấy phép SIL OFL 1.1, đồng hồ số AppMetricDisplay, bố cục dashboard \u0026 cài đặt 2 cột trên Head Unit và Teacher Remote.",
+                    "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.11.28.07.10_release.apk",
+                    "file_size_bytes":  36257886,
+                    "sha256":  "4C7DEE3C9EEF82EEAB31C66F68C1F0956D9C6B1905574BEC2D8C4D11D8F3D610"
                 }
 }
