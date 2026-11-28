@@ -1,24 +1,24 @@
 {
     "headunit":  {
-                     "version_name":  "2.9.1",
-                     "version_code":  20261131,
-                     "build_version":  "2026.11.28.07.55",
-                     "release_date":  "2026-11-28T00:55:00Z",
+                     "version_name":  "2.9.2",
+                     "version_code":  20261132,
+                     "build_version":  "2026.11.28.09.10",
+                     "release_date":  "2026-11-28T02:10:00Z",
                      "force_after_days":  30,
-                     "release_notes":  "Khắc phục lỗi mất dấu tiếng Việt (chữ hoa có dấu chồng như Ấ, Ố, Ệ, Ỗ) trên tiêu đề bài thi Sa hình khi hiển thị cỡ chữ lớn; tăng khoảng thoáng dọc cho MarqueeText và token chữ SimuTypography.",
-                     "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.11.28.07.55_release.apk",
+                     "release_notes":  "Khắc phục độ tương phản chữ và biểu tượng trên màn hình chọn chế độ Teacher Remote ở cả hai chế độ Sáng và Tối (chuẩn WCAG AA \u003e= 4.5:1); cấu hình màu mặc định chuẩn cho ElevatedButton/FilledButton/AppBar trong SimuTheme; thống nhất nhãn TRUẤT QUYỀN SÁT HẠCH và TRƯỢT trên Head Unit và Remote.",
+                     "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/HeadUnit_HUD_2026.11.28.09.10_release.apk",
                      "file_size_bytes":  88664718,
-                     "sha256":  "723F6FE379EE0B085D72E9E6F7455763389B792D988DF57F6D67471D7D08BCBD"
+                     "sha256":  "BF06B0B08D52C57F9CA54465B35C13BDEE60B6939D8A73CA3B2EE4037CFB493A"
                  },
     "teacher":  {
-                    "version_name":  "2.9.1",
-                    "version_code":  20261131,
-                    "build_version":  "2026.11.28.07.55",
-                    "release_date":  "2026-11-28T00:55:00Z",
+                    "version_name":  "2.9.2",
+                    "version_code":  20261132,
+                    "build_version":  "2026.11.28.09.10",
+                    "release_date":  "2026-11-28T02:10:00Z",
                     "force_after_days":  30,
-                    "release_notes":  "Khắc phục lỗi mất dấu tiếng Việt (chữ hoa có dấu chồng như Ấ, Ố, Ệ, Ỗ) trên tiêu đề bài thi Sa hình khi hiển thị cỡ chữ lớn; tăng khoảng thoáng dọc cho MarqueeText và token chữ SimuTypography.",
-                    "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.11.28.07.55_release.apk",
-                    "file_size_bytes":  36257886,
-                    "sha256":  "985BC3A02459C199D24AEFC164EC44385EC8E4355CA31AF62147290C9A84A8D5"
+                    "release_notes":  "Khắc phục độ tương phản chữ và biểu tượng trên màn hình chọn chế độ Teacher Remote ở cả hai chế độ Sáng và Tối (chuẩn WCAG AA \u003e= 4.5:1); cấu hình màu mặc định chuẩn cho ElevatedButton/FilledButton/AppBar trong SimuTheme; thống nhất nhãn TRUẤT QUYỀN SÁT HẠCH và TRƯỢT trên Head Unit và Remote.",
+                    "apk_url":  "https://raw.githubusercontent.com/quanpl77/app_simu_releases/main/Teacher_Remote_2026.11.28.09.10_release.apk",
+                    "file_size_bytes":  36274270,
+                    "sha256":  "BAF92503B0A57FDC292289560F766774912EE31F5371750BEFEE31F61C46E677"
                 }
 }
